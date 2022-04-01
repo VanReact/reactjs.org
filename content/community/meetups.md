@@ -169,6 +169,9 @@ Do you have a local React.js meetup? Add it here! (Please keep the list alphabet
 ## Turkey {#turkey}
 * [Istanbul](https://kommunity.com/reactjs-istanbul)
 
+## Vietnam {#Vietnam}
+* [Hanoi] (https://www.meetup.com/vietnam-reactjs-react-native/)
+
 ## Ukraine {#ukraine}
 * [Kyiv](https://www.meetup.com/Kyiv-ReactJS-Meetup)
 
